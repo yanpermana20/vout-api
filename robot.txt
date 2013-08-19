@@ -1,0 +1,14 @@
+User-agent: Googlebot
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*?*
+Disallow: /*?
+Disallow: /form/
+Disallow: /images/
+Disallow: /download/
+Disallow: /test/
+Disallow: /cms/
+Disallow: /cache/
+Disallow: /cache_backup/
